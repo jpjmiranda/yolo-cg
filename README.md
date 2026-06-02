@@ -1,3 +1,5 @@
+LINK PARA ACESSO DO DATASET - https://universe.roboflow.com/aivle5-f7j14/one-piece-uuyxt
+
 # YOLO-CG — Treinamento e Inferência com YOLOv8
 
 Projeto desenvolvido para a disciplina de **Visão Computacional**, com o objetivo de aplicar, na prática, o processo de criação de um detector de objetos personalizado utilizando **YOLOv8**.
