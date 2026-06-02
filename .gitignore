@@ -12,3 +12,7 @@ notebooks/runs/detect/inferencias_video/
 pyproject.toml
 meu_dataset/
 datasets/
+*.mp4
+*.avi
+videos_teste/
+notebooks/runs/
