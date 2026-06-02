@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['Blook', 'Chyopa', 'Franky', 'Luffy', 'Nami', 'NicoRobin', 'Sangdi', 'Usopp', 'Zoro']
+
+roboflow:
+  workspace: aivle5-f7j14
+  project: one-piece-uuyxt
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aivle5-f7j14/one-piece-uuyxt/dataset/1

@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+*.pt
+*.onnx
+*.engine
+*.zip
+.DS_Store
+.DS_Store
+notebooks/runs/detect/inferencias_video/
+pyproject.toml
+meu_dataset/
+datasets/
