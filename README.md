@@ -857,4 +857,4 @@ Com isso, o projeto conclui as etapas práticas de dataset, treinamento e infer�
 
 ## 25. Autor
 
-Projeto desenvolvido por **João Miranda** para a disciplina de **Visão Computacional**.
+Projeto desenvolvido por **João Miranda** para a disciplina de **Computação Gráfica**.
